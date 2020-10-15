@@ -1,6 +1,6 @@
 ---
 title: Hello world!
-description: "Foo | Bar | Baz"
+description: Foo, Bar, Baz
 ---
 
 # Hello world!
