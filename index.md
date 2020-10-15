@@ -1,5 +1,4 @@
 ---
-title: Hello world!
 description: Foo, Bar, Baz
 ---
 
